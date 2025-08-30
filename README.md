@@ -1,10 +1,15 @@
-# State of the Map 2020 Trivia Quiz
+# State of the Map Latam 2025 Trivia Quiz
+
+Esto está basado en el quiz del SotM 2020.
+
+[Para jugar has click aquí](https://OSMLatam.github.io/sotm-latam2025-quiz/)
+
+-----
 
 This is a simple static single-player trivia quiz game, made for a nice look and easy question replacement.
 Thanks to Vue.js authors which made making this game very quick, and to State of the Map 2020 organizers
 that made me do a quiz and then asked for it to be re-playable.
 
-[Play the Quiz!](https://zverik.github.io/sotm2020-quiz/)
 
 ## How to steal the code
 
