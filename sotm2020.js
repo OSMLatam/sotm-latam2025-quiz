@@ -1,10 +1,10 @@
 quiz = {
-  "title": "State of the Map 2020",
-  "picture": "sotmquiz.png",
-  "intro": "Welcome! This is a single-player version of the trivia quiz that was played at the [State of the Map 2020](https://2020.stateofthemap.org) conference. Some answers might have gotten stale, so this might be a fun history lesson for you. For each question, choose one answer and see how many people did the same choice. Unlike the real-time version, there are no time-limits, but please don't google questions: that would take the fun out. And that's what this quiz is for: some knowledge and some fun!\n\nThank you to Frederik Ramm, Sergey Golubev, and Trudy Namitala for helping with the questions!",
+  "title": "State of the Map Latam 2025",
+  "picture": "ROSA.png",
+  "intro": "¡Bienvenido! Este es un juego individual de la conferencia [State of the Map Latam 2025](https://www.osmlatam.org/sotm/2025-es/)",
 
-  "ranks": ["a Novice Mapper", "a Long-time Mapper", "an OpenStreetMap Expert", "Michael Reichert"],
-  "afterword": "Yay, you have finished the quiz! Hope you have learnt something interesting about OpenStreetMap. Now back to mapping and helping other people map, I guess. Thank you!",
+  "ranks": ["un mapeador novato", "un mapeador de trayectoria", "un experto en OpenStreetMap", "una AI de OSM"],
+  "afterword": "Whoau, has terminado el quiz. Espero que hayas aprendido algo interesante acerca de OpenStreetMap. Ahora, volvamos a la conferencia, eso espero y gracias",
 
   "questions": [
     {
